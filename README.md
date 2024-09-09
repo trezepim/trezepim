@@ -10,14 +10,18 @@
 <br><br>
 
 <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euCRUZ&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/>
+
+<br>
+
+<!-- Languages -->
+<img width="20%" src="https://skillicons.dev/icons?i=java,py,c"/>
+
 </div>
 
 <!-- Line -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- Skills area -->
-
-<h2> Skills</h2>
-
-<!-- About me (coming soon) -->
+<!-- About me (pending) -->
+<h2>👤 About me</h2>
+<p>Coming soon...</p>
