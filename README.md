@@ -1,3 +1,2 @@
-## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+,my+name+is+Rafael+Pim)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=550&size=30&duration=2500&pause=4000&color=0069D4&center=true&width=435&lines=Hello%2C+my+name+is+Rafael+Pim!)](https://git.io/typing-svg)
