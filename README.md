@@ -25,9 +25,3 @@
 <!-- About me (pending) -->
 <h2>👤 About me</h2>
 <p>Coming soon...</p>
-
-##
-
-<!-- Social networks -->
-<h3>📲 Social networks</h3>
-<p>Coming soon...</p>
