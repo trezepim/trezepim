@@ -1,3 +1,7 @@
+<!-- Line -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <!-- Header -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0069D4&height=120&section=header"/>
@@ -22,6 +26,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- About me (pending) -->
+<!-- About me (pending)
 <h2>👤 About me</h2>
 <p>Coming soon...</p>
+-->
