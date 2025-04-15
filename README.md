@@ -18,7 +18,7 @@
 <br>
 
 <!-- Languages -->
-<img width="20%" src="https://skillicons.dev/icons?i=java,py,c"/>
+<img width="20%" src="https://skillicons.dev/icons?i=java,py,mysql"/>
 
 </div>
 
