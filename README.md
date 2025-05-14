@@ -19,9 +19,11 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 ## 📊 Estatísticas
 <div align="center">
+  <div>
 | <img width="100%" height="190px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117&include_all_commits=true&locale=pt-br"/> | <img width="90%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezepim&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/> |
 | --- | --- |
-</div>
+  </div>
+  </div>
 
 ## 🐍 Snake Game
 ![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
