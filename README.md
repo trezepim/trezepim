@@ -18,7 +18,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 ## 🐍 Snake Game
 <img src="https://github.com/trezepim/trezepim/raw/output/github-contribution-grid-snake.gif"/>
-![snake gif](https://github.com/eliseufesantos/eliseufesantos/blob/output/github-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/trezepim/trezepim/blob/output/github-snake-dark.svg?palette=github-dark)
 <!--
 Line
 
