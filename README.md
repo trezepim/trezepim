@@ -15,8 +15,8 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br/>
 
-<!--  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>  -->
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## 📊 Estatísticas
 | <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117&include_all_commits=true&locale=pt-br"/> | <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezepim&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/> |
 | --- | --- |
