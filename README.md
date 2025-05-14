@@ -1,6 +1,6 @@
 # 🐦‍🔥 Rafael Pim Santos
 **Seja bem-vindo ao meu perfil!**
-> "Se você não quer ser criticado... então, por favor, não faça nada novo." – Jeff Bezos 🥇🏆
+> "Se você não quer ser criticado... então, por favor, não faça nada novo." – Jeff Bezos 🏆
 
 Oi, eu sou o Rafael, um estudante apaixonado por **tecnologia** e pelo **poder** que ela tem de transformar o mundo.  
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
