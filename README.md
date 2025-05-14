@@ -17,8 +17,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 ---
 ## 📊 Estatísticas
-| <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> | <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezepim&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/>
- |
+| <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> | <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezepim&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/> |
 | --- | --- |
 
 
