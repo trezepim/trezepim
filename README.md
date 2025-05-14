@@ -3,7 +3,7 @@
 > "Se você não quer ser criticado... então, por favor, não faça nada novo." – Jeff Bezos 🏆
 
 Oi, eu sou o Rafael, um estudante apaixonado por **tecnologia** e pelo **poder** que ela tem de transformar o mundo.
-<br/>
+<br>
 Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpimsantos/)
