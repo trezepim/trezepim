@@ -9,6 +9,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelpimsantos@gmail.com)
 
 ## 🤖 Linguagens e Tecnologias
+<img width="20%" src="https://skillicons.dev/icons?i=java,mysql,py,git"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -51,8 +52,3 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 <!-- Line -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<!-- About me (pending)
-<h2>👤 About me</h2>
-<p>Coming soon...</p>
--->
