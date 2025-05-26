@@ -1,4 +1,4 @@
-# 🐦‍🔥 Rafael Pim Santos
+# 💻 Rafael Pim Santos
 **Seja bem-vindo ao meu perfil!**
 > "Se você não quer ser criticado... então, por favor, não faça nada novo." – Jeff Bezos 🏆
 
