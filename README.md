@@ -10,7 +10,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelpimsantos@gmail.com)
 
 ## 🤖 Linguagens e Tecnologias
-<img width="30px" src="https://skillicons.dev/icons?i=java,mysql,py,git,figma"/>
+<img width="300px" src="https://skillicons.dev/icons?i=java,mysql,py,git,figma"/>
 
 ## Atualmente estudando:
 <img width="5%" src="https://skillicons.dev/icons?i=cs"/>
