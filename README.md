@@ -11,7 +11,7 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
 ## 🤖 Linguagens e Tecnologias
 <!--<img width="230px" src="https://skillicons.dev/icons?i=java,py,figma"/> -->
-<img width="230px" src="https://skillicons.dev/icons?i=java"/><img width="230px" src="https://skillicons.dev/icons?i=py"/><img width="230px" src="https://skillicons.dev/icons?i=figma"/>
+<img width="140px" src="https://skillicons.dev/icons?i=java"/><img width="230px" src="https://skillicons.dev/icons?i=py"/><img width="230px" src="https://skillicons.dev/icons?i=figma"/>
 
 ## 📖 Atualmente estudando:
 <img width="60px" src="https://skillicons.dev/icons?i=git"/>
