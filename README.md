@@ -10,13 +10,13 @@ Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelpimsantos@gmail.com)
 
 ## 🤖 Linguagens e Tecnologias
-<img width="230px" src="https://skillicons.dev/icons?i=java,py,figma"/>
+<img width="230px" src="https://skillicons.dev/icons?i=java,py,git,figma"/>
 
 ## 📖 Atualmente estudando:
-<img width="60px" src="https://skillicons.dev/icons?i=git"/>
+<img width="60px" src="https://skillicons.dev/icons?i=cs"/>
 
 ## 📕 Lista de estudo:
-<img width="120px" src="https://skillicons.dev/icons?i=cs,dotnet"/>
+<img width="120px" src="https://skillicons.dev/icons?i=dotnet"/>
 
 ## 📊 Estatísticas
 | <img width="100%" height="190px" src="https://github-readme-stats.vercel.app/api?username=trezepim&show_icons=true&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117&locale=pt-br"/> | <img width="100%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezepim&layout=compact&hide_border=true&title_color=0069D4&text_color=FFFFFF&bg_color=0d1117"/> |
