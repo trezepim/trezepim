@@ -4,7 +4,7 @@
 
 Oi, eu sou o Rafael, um estudante apaixonado por **tecnologia** e pelo **poder** que ela tem de transformar o mundo.
 
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Aqui compartilho projetos e experimentos que refletem minha jornada.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpimsantos/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelpimsantos@gmail.com)
