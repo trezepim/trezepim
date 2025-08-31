@@ -10,10 +10,10 @@ Aqui compartilho projetos e experimentos que refletem minha jornada.
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelpimsantos@gmail.com)
 
 ## 🤖 Linguagens e Tecnologias
-<img width="240px" src="https://skillicons.dev/icons?i=java,py,git,figma"/>
+<img width="300px" src="https://skillicons.dev/icons?i=java,cs,py,git,figma"/>
 
 ## 📖 Atualmente estudando:
-<img width="120px" src="https://skillicons.dev/icons?i=cs,dotnet"/>
+<img width="60px" src="https://skillicons.dev/icons?i=linux"/>
 
 ## 📕 Lista de estudo:
 <img width="60px" src="https://skillicons.dev/icons?i=mysql"/>
